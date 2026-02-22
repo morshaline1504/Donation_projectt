@@ -21,15 +21,11 @@ DonateChain is a full-stack web application built with Next.js that connects don
 ## Tech Stack
 
 ### Frontend
-- **Next.js 16** - React framework with App Router
+
 - **React 19** - UI library
 - **TypeScript** - Type-safe JavaScript
 - **Tailwind CSS** - Utility-first CSS framework
-- **Radix UI** - Accessible UI components
-- **React Hook Form** - Form handling with validation
-- **Zod** - Schema validation
-- **Recharts** - Data visualization
-- **Lucide React** - Icon library
+
 
 ### Backend
 - **Node.js** - Runtime environment
@@ -42,10 +38,7 @@ DonateChain is a full-stack web application built with Next.js that connects don
 - **Custom Blockchain Implementation** - Simple proof-of-work blockchain for donation recording
 - **Crypto (Node.js)** - Hashing and cryptography
 
-### Development Tools
-- **ESLint** - Code linting
-- **PostCSS** - CSS processing
-- **Autoprefixer** - CSS vendor prefixing
+
 
 ## Project Structure
 
@@ -236,11 +229,3 @@ The project uses ESLint for code linting. Run `pnpm lint` to check for issues.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Future Enhancements
-
-- [ ] Multi-language support
-- [ ] Advanced analytics dashboard
-- [ ] Integration with external payment gateways
-- [ ] Mobile app development
-- [ ] Real-time chat between donors and volunteers
-- [ ] Advanced blockchain features (smart contracts, tokenization)
